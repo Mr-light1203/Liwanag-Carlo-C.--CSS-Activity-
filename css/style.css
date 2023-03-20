@@ -14,13 +14,14 @@ body {
     margin-bottom: 100px;
     background-color: white;
     padding: 25px;
+    box-shadow: 0px 0px 10px #B4b7b7 ;
 }
 
 .profile-picture{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 200px;
+    width: 150px;
     border-radius: 100px;
 }
 
@@ -42,21 +43,23 @@ body {
 
 .social-link{
     margin: 215px;
-    padding-left: 5px;
+    padding-left: 40px;
     padding-right: 15px;
     padding-bottom: 10px;
     padding-top: 10px;
-    color: blue;
+    color: #59b1f1;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .social-icon{
-    width: 20px;
+    width: 15px;
+    margin-top: 30px;
 }
 
 .social-link:hover{
     border-radius: 25px;
-    background-color: blue;
+    background-color: #59b1f1;
     color: white;   
 }
