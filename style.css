@@ -31,3 +31,21 @@ body {
     text-align: center;
     text-transform: uppercase;
 }
+
+.my-bio{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.social-link{
+    margin: 215px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: blue;
+    text-decoration: none;
+}
